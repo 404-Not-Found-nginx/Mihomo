@@ -1,2 +1,4 @@
-# ClashRules
-自用clash规则
+# Mihomo
+~~自用clash规则~~
+## 26.9.12 更新
+- Clash成为过去，现在是，~~虚！空！终！端！~~
