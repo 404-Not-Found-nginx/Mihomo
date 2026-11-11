@@ -1,0 +1,22 @@
+# ==========================================
+# 规则名称: GitHub 专属分流规则集
+# Author: 北美豆包Gemini
+# ==========================================
+
+# > 官方主站与生态门户（已涵盖 api/codeload/gist 等所有子域）
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,github.dev
+
+# > 核心代码存储、Git 交互、Raw 资源与 Actions（已涵盖 raw/copilot-proxy 等所有子域）
+DOMAIN-SUFFIX,githubusercontent.com
+
+# > 前端静态资源与媒体 CDN
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubapp.com
+
+# > GitHub Copilot 专属模型与鉴权服务
+DOMAIN-SUFFIX,githubcopilot.com
